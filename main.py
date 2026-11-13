@@ -292,7 +292,7 @@ def restart(state: State) -> Page:
     state.error_message = ""
     return index(state)
  
- set_website_title("Fantasy Start/Sit Helper")
+set_website_title("FantasyStart/SitHelper")
 set_site_information(
     author="Landis Leatherman",
     description="Recommends which fantasy football player to start using recent form, matchup, home field and turnovers.",
